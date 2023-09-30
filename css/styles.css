@@ -1,0 +1,50 @@
+@font-face {
+font-family: 'Raleway';
+font-weight: 800;
+src:url('../fonts/Raleway-Bold.ttf')format('ttf');
+}
+.main-header:hover{
+    color: blue;
+    cursor: pointer;
+    font-family: Raleway, sans-serif;
+    font-size: 11px
+    font-weight: 800;
+}
+
+.main-header {
+    text-decoration:none;
+}
+
+.main-header-menu-link:hover{
+    color: red;
+    font-family: Raleway, sans-serif;
+    font-size: 16px
+    font-weight: 800;
+ }
+
+ a {
+    text-decoration:none;
+ }
+
+ .hero {
+    font-family: Raleway, sans-serif;
+    color:
+ }
+
+ .button-link:hover {
+    color:blue;
+    cursor:pointer;
+ }
+
+ .about-list {
+    font-family: Roboto, sans-serif;
+    font-size: 24px
+    font-weight: 800;
+ }
+
+ p {
+    font-family: Roboto, sans-serif
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 800;
+ }
